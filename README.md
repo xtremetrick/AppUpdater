@@ -1,5 +1,4 @@
-<h1 align="center">AppUpdater <a href="https://github.com/javiersantos/AppUpdater#how-to-include"><img src="https://jitpack.io/v/javiersantos/AppUpdater.svg"></a></h1>
-<h1 align="center">Credit - Javiersantos <a href="https://github.com/javiersantos/AppUpdater#how-to-include"><img src="https://jitpack.io/v/javiersantos/AppUpdater.svg"></a></h1>
+<h1 align="center">AppUpdater - Javiersantos <a href="https://github.com/javiersantos/AppUpdater#how-to-include"><img src="https://jitpack.io/v/javiersantos/AppUpdater.svg"></a></h1>
 <h4 align="center">Android Library</h4>
 
 <p align="center">
