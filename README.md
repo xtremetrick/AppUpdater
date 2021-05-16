@@ -4,7 +4,7 @@
 <p align="center">
   <a target="_blank" href="https://android-arsenal.com/api?level=8"><img src="https://img.shields.io/badge/API-9%2B-orange.svg"></a>
   <a target="_blank" href="https://travis-ci.org/javiersantos/AppUpdater"><img src="https://travis-ci.org/javiersantos/AppUpdater.svg?branch=master"></a>
-  <a target="_blank" href="http://android-arsenal.com/details/1/3094"><img src="https://img.shields.io/badge/Android%20Arsenal-AppUpdater-blue.svg"></a>
+  <a target="_blank" href="http://android-arsenal.com/details/1/3094"><img src="https://avatars.githubusercontent.com/u/65113347?s=400&u=a632c342880b599886ac789ded2dbe53e15333ff&v=4"></a>
 </p>
 
 <p align="center">Android Library that checks for updates on Google Play, GitHub, Amazon, F-Droid or your own server. This library notifies your apps' updates by showing a Material dialog, Snackbar or notification. Check out the <a href="https://github.com/javiersantos/AppUpdater/wiki">wiki</a>.</p>
